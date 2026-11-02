@@ -1,14 +1,13 @@
-# Didi & Friends – Misi Minta Izin
+# Didi & Friends — Misi Minta Izin
 
-Permainan pendidikan interaktif dengan pembukaan, cerita Didi, pemilihan watak dan misi kad gambar.
+Permainan interaktif satu fail HTML untuk GitHub Pages. Semua gambar (termasuk Cikgu Pak Atan) sudah dimasukkan ke dalam `index.html`.
 
-## Cara terbit di GitHub Pages
-1. Cipta repository baharu di GitHub.
-2. Upload `index.html` ke folder utama (root) repository.
-3. Buka Settings > Pages > Build and deployment.
-4. Pilih Deploy from a branch, branch `main`, folder `/ (root)` dan Save.
-5. Tunggu sehingga pautan GitHub Pages tersedia.
+## Cara guna
+1. Upload `index.html` dan `README.md` ke root repository GitHub.
+2. Buka Settings → Pages → Deploy from a branch → main → / (root).
+3. Akses pautan GitHub Pages selepas diterbitkan.
 
-Gambar yang diperlukan telah dimasukkan terus ke dalam `index.html`; tidak perlu upload fail gambar berasingan.
+## Aliran
+Selamat Datang → Situasi Didi → Cerita 5 babak → Start Misi → Pilih Didi / Jojo / Nana → 4 misi kad → Misi Selesai → Main Semula.
 
-Nota: Suara bergantung pada sokongan text-to-speech pelayar dan bahasa yang tersedia. Fullscreen bergantung pada pelayar/peranti.
+**Nota:** Suara menggunakan text-to-speech pelayar dan mungkin berbeza antara peranti. Paparan mengisi skrin pelayar; butang Skrin Penuh bergantung kepada sokongan pelayar/iOS.
